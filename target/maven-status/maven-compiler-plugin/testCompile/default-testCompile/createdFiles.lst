@@ -1,0 +1,6 @@
+base\MapObject.class
+base\PagObject.class
+base\PagObjectPago.class
+base\MapObjectPago.class
+runner\RunPruebas.class
+base\ClaseBase.class
